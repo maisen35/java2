@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1651235639565" defaultVMConnector\="">\r\n    <vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n        <vm id\="1651235639565" name\="17" path\="C\:\\Users\\\u5B8F\u6A39\\Downloads\\pleiades-2022-03-java-win-64bit-jre_20220326\\java\\17"/>\r\n    </vmType>\r\n</vmSettings>\r\n
