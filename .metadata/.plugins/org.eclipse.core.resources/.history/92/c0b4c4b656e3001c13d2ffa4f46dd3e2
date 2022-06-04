@@ -13,7 +13,7 @@ public class Extend01 {
 		System.out.println("" + sato.getName());
 		System.out.println("" + sato.getStudentProfile());
 		
-		Employee human = new Employee("田中", 28, "システム部");
+		Human human = new Employee("田中", 28, "システム部");
 		System.out.println("" + human.getName());
 		
 		Employee tanaka = (Employee) human;
